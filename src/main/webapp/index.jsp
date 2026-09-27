@@ -8,7 +8,7 @@ i<!DOCTYPE html>
 <body>
 	<h1>WAR Web Service</h1> 
 
-	<h1>this is s is duplicate</h1> 
+	<h1>this is got not is duplicate</h1> 
 	<ul> 
 		<li><a href="http://localhost:8080/wwp-1.0.0/webapi/service">http://localhost:8080/wwp-1.0.0/webapi/service</a></li>
 		<li><a href="http://localhost:8080/wwp-1.0.0/webapi/service/hello">http://localhost:8080/wwp-1.0.0/webapi/service/hello</a></li>
