@@ -6,7 +6,9 @@ i<!DOCTYPE html>
 	<link href="static/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-	<h1>WAR Web Service</h1>
+	<h1>WAR Web Service</h1> 
+
+	<h1>this is duplicate</h1> 
 	<ul> 
 		<li><a href="http://localhost:8080/wwp-1.0.0/webapi/service">http://localhost:8080/wwp-1.0.0/webapi/service</a></li>
 		<li><a href="http://localhost:8080/wwp-1.0.0/webapi/service/hello">http://localhost:8080/wwp-1.0.0/webapi/service/hello</a></li>
